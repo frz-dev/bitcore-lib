@@ -1,6 +1,6 @@
 {
   "name": "bitcore-local-lib",
-  "version": "0.15.0",
+  "version": "0.15.0l",
   "description": "A pure and powerful JavaScript Bitcoin library.",
   "author": "F.Franzoni <frz-dev@gmx.com>",
   "main": "index.js",
