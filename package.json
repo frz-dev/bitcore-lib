@@ -1,8 +1,8 @@
 {
-  "name": "bitcore-local-lib",
+  "name": "btcl-bitcore-lib",
   "version": "5.0.0-beta.1",
   "description": "A pure and powerful JavaScript Bitcoin library.",
-  "author": "BitPay <dev@bitpay.com>",
+  "author": "FFranz <frz-dev@gmx.com>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/frz-dev/bitcore-local-lib.git"
+    "url": "https://github.com/frz-dev/btcl-bitcore-lib.git"
   },
   "browser": {
     "request": "browser-request"
